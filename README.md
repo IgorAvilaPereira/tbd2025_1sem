@@ -17,12 +17,7 @@
 
 [exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/exemplo_jpa_javalin) <br>
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
-# Guia Rápido
-
-* https://cheatsheets.zip/postgres
-* https://cheatsheets.zip/redis
-* https://cheatsheets.zip/mongodb
-* https://cheatsheets.zip/neo4j
+[guia_rapido.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./guia_rapido/guia_rapido.md) <br>
 ## [./javalin_mustache_exemplo](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./javalin_mustache_exemplo) <br>
 Exemplo Javalin 
 [teste](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./javalin_mustache_exemplo/teste) <br>
