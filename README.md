@@ -5,7 +5,7 @@
 
 [exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/exemplo_jpa_javalin) <br>
 ## [./2_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./2_aula) <br>
-2_aula <br>
+[nova_aula.sh](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_aula/nova_aula.sh) <br>
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 [guia_rapido.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./guia_rapido/guia_rapido.md) <br>
 ## [./javalin_mustache_exemplo](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./javalin_mustache_exemplo) <br>
