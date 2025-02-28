@@ -1,1 +1,3 @@
-2_aula <br>
+* +@OneToMany
+* @OneToOne
+* Herança
