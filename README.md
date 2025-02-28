@@ -3,8 +3,10 @@
 [jpa.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/jpa.pdf) <br>
 * [Video - @OneToOne](https://www.youtube.com/watch?v=IXhz1G6w75Q&list=PLvT8P1q6jMWfvCUWOAOJt_mJfsvrV2jp5&index=1&ab_channel=IgorAvilaPereira)
 
+[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/aiai) <br>
 [exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/exemplo_jpa_javalin) <br>
 ## [./2_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./2_aula) <br>
+[jpa.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_aula/jpa.pdf) <br>
 * +@OneToMany
 * @OneToOne
 * Herança
