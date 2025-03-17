@@ -7,3 +7,6 @@
 * https://javanexus.com/blog/overcoming-hurdles-easycriteria-jpa
 
 * https://github.com/uaihebert/uaicriteria
+
+<br><br>
+
