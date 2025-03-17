@@ -23,7 +23,7 @@
 
 * https://github.com/uaihebert/uaicriteria
 
-<br><br>
+<br>
 
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 [guia_rapido.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./guia_rapido/guia_rapido.md) <br>
