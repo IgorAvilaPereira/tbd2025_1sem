@@ -14,7 +14,6 @@ import java.util.Map;
 
 import io.javalin.Javalin;
 import io.javalin.rendering.template.JavalinMustache;
-import static org.eclipse.jetty.util.component.LifeCycle.start;
 
 // https://javalin.io/tutorials/javalin-hibernate
 public class App {
@@ -28,12 +27,8 @@ public class App {
         })
                 //        .get("/", ctx -> ctx.result("Hello World"))
                 //        .get("/ok", ctx -> ctx.result("Hello World2"))
-                .get("/", ctx -> ctx.render("/templateFile.html", controller.listarPessoas()))
+                .get("/ok_template", ctx -> ctx.render("/templateFile.html", controller.listarPessoas()))
                 .get("/excluir/{id}", ctx -> ctx.render("/mensagem.html", controller.excluir(Integer.parseInt(ctx.pathParam("id")))))
-                .get("/tela_alterar/{id}", ctx -> ctx.render("/tela_alterar.html", controller.tela_alterar(Integer.parseInt(ctx.pathParam("id")))))
-                .get("/tela_adicionar", ctx -> ctx.render("/tela_adicionar.html"))
-                .post("/adicionar", ctx -> ctx.render("/mensagem.html", controller.adicionar(ctx)))
-                .post("/alterar", ctx -> ctx.render("/mensagem.html", controller.alterar(ctx)))
 
                 .start(7070);
     }

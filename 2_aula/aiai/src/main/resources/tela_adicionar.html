@@ -10,7 +10,13 @@ Click nbfs://nbhost/SystemFileSystem/Templates/Other/html.html to edit this temp
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
     </head>
     <body>
-        <div>{{mensagem}}</div>
-        <a href="/">Voltar</a>
+        <h1>Tela Adicionar</h1>
+        <form action ="/adicionar" method="post">
+            Nome:<input type="text" name="nome">
+            CPF/CNPJ: <input type="text" name="cpf_cnpj"> <br>
+            <input type="radio" name="tipo" value="pf"> Pessoa Fisica 
+            <input type="radio" name="tipo" value="pj"> Pessoa Juridica <br>
+            <input type="submit" value="Adicionar">
+        </form>
     </body>
 </html>
