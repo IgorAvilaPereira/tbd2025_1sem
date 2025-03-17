@@ -21,7 +21,11 @@
 
 * https://javanexus.com/blog/overcoming-hurdles-easycriteria-jpa
 
-* https://github.com/uaihebert/uaicriteria## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
+* https://github.com/uaihebert/uaicriteria
+
+<br><br>
+
+## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 [guia_rapido.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./guia_rapido/guia_rapido.md) <br>
 ## [./javalin_mustache_exemplo](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./javalin_mustache_exemplo) <br>
 Exemplo Javalin 
