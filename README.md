@@ -26,6 +26,17 @@
 
 [aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_aula/aiai) <br>
 [projeto_pos_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_aula/projeto_pos_aula) <br>
+## [./4_springjpa](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./4_springjpa) <br>
+[Documentação](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
+
+** Exemplos:**
+
+* https://github.com/IgorAvilaPereira/QuickStart_SpringJPAMustache
+
+* https://github.com/IgorAvilaPereira/minicurso-java-spring-solid
+
+* https://github.com/IgorAvilaPereira/SpringJPA_PostgreSQL
+
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 [guia_rapido.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./guia_rapido/guia_rapido.md) <br>
 ## [./javalin_mustache_exemplo](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./javalin_mustache_exemplo) <br>
