@@ -1,6 +1,6 @@
 [Documentação](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
 
-** Exemplos:**
+**Exemplos:**
 
 * https://github.com/IgorAvilaPereira/QuickStart_SpringJPAMustache
 
