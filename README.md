@@ -29,7 +29,7 @@
 ## [./4_springjpa](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./4_springjpa) <br>
 [Documentação](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
 
-** Exemplos:**
+**Exemplos:**
 
 * https://github.com/IgorAvilaPereira/QuickStart_SpringJPAMustache
 
