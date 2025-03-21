@@ -1,0 +1,17 @@
+<h1>Pagina do Igor </h1>
+
+<h1>Listagem de Pessoas</h1>
+<div style="background-color: aliceblue">
+    {{#vetPessoa}}
+        <a href="/excluir/{{id}}">Excluir </a> <a href="/tela_alterar/{{id}}"> Alterar </a>  {{nome}} <br>
+    {{/vetPessoa}}
+</div>
+
+<h1>Listagem de Funcionarios </h1>
+<div style="background-color: aliceblue">
+    {{#vetFuncionario}}
+    <a href="/excluir/{{id}}">Excluir </a> <a href="/tela_alterar/{{id}}"> Alterar </a>  {{nome}} <br>
+    {{/vetFuncionario}}
+</div>
+
+<a href="/tela_adicionar">Adicionar </a>
