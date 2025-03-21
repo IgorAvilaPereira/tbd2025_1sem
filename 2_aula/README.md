@@ -1,3 +1,0 @@
-* +@OneToMany
-* @OneToOne
-* Herança
