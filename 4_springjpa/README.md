@@ -4,7 +4,7 @@
 
 * https://github.com/IgorAvilaPereira/QuickStart_SpringJPAMustache
 
-* https://github.com/IgorAvilaPereira/minicurso-java-spring-solid
+* :important https://github.com/IgorAvilaPereira/minicurso-java-spring-solid
 
 * https://github.com/IgorAvilaPereira/SpringJPA_PostgreSQL
 
