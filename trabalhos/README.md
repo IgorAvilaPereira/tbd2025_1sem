@@ -27,7 +27,8 @@ Desenvolvimento de Aplicação E-commerce. <!-- com JPA, PostgreSQL e Redis-->
 * Desenvolver uma API ou Desenvolver o sistema por terminal, por interface gráfica (desktop) ou web;
 
 ### No PostgreSQL:
-* CRUD para as classes do sistema: Cliente, Pedido e Item. Obs: os produtos podem estar fixamente cadastrados. Obs: para facilitar o desenvolvimento, Produtos tem estoque "infinito"
+* CRUD para as classes do sistema: Cliente, Pedido, Item e Produto. 
+    * Obs: para facilitar o desenvolvimento, Produtos tem estoque "infinito"
 * Mostrar os pedidos anteriores
 * Persistir o pedido (depois de que o cliente pega para fechar o pedido)
 
@@ -38,6 +39,7 @@ Desenvolvimento de Aplicação E-commerce. <!-- com JPA, PostgreSQL e Redis-->
 * Mostrar o valor parcial e o valor total do Pedido
 * Destruir as informacões do Pedido (Carrinho) depois que o pedido seja, efetivamente, salvo no PostgreSQL
 
-<!--![trabalho1](trabalho1.png)-->
+<!--![trabalho1](trabalho1.png)
 
 ## Valor: 5
+-->
