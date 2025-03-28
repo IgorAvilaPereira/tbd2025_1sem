@@ -44,3 +44,5 @@ Exemplo Javalin
 [teste](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./javalin_mustache_exemplo/teste) <br>
 ## [./setup](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./setup) <br>
 [setup.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./setup/setup.md) <br>
+## [./trabalhos](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./trabalhos) <br>
+&nbsp;
