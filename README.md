@@ -39,8 +39,15 @@
 
 ## [./5_redis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./5_redis) <br>
 [introducao_nosql_redis.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/introducao_nosql_redis.pdf) <br>
+* Matéria Nova: REDIS
+* Divulgação TRABALHO 1 -> Data e Peso estão no SIGAA => assim fechamos 1 bim.
 
+Na volta (2 bim):
 
+* MongoDB
+* Neo4j
+
+***
 <!--[Introdução NoSQL + REDIS](https://github.com/IgorAvilaPereira/tbd2024_2sem/raw/main/slides/introducao_nosql_redis.pdf)
 
 [Código Aula](https://github.com/IgorAvilaPereira/tbd2024_2sem/tree/main/codigos/aula211024/renan)-->
