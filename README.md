@@ -250,6 +250,9 @@ Definir - Nova data atividade avaliada  1 -> dia 29/07 tudo: trabalho1 (jpa), tr
 * https://docs.keydb.dev/
 
 * [Código Exemplo - Keydb - igual ao Redis](https://github.com/IgorAvilaPereira/tbd2024_2sem/tree/main/codigos/keydb)
+
+
+
 [redis.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/redis.md) <br>
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 [guia_rapido.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./guia_rapido/guia_rapido.md) <br>
