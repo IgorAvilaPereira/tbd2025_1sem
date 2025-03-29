@@ -41,11 +41,11 @@
 
 **Exemplos:**
 
-* bom exemplo de api com swagger - https://github.com/IgorAvilaPereira/QuickStart_SpringJPAMustache
+*  https://github.com/IgorAvilaPereira/QuickStart_SpringJPAMustache
 
 * bom exemplo de api e uso de templates mustache - https://github.com/IgorAvilaPereira/minicurso-java-spring-solid
 
-* https://github.com/IgorAvilaPereira/SpringJPA_PostgreSQL
+* bom exemplo de api com swagger - https://github.com/IgorAvilaPereira/SpringJPA_PostgreSQL
 
 ## [./5_redis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./5_redis) <br>
 [introducao_nosql_redis.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/introducao_nosql_redis.pdf) <br>
