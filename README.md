@@ -260,8 +260,14 @@ Definir - Nova data atividade avaliada  1 -> dia 29/07 tudo: trabalho1 (jpa), tr
 
 
 [redis.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/redis.md) <br>
+[minicurso-java-spring-solid-main](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/minicurso-java-spring-solid-main) <br>
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
-[guia_rapido.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./guia_rapido/guia_rapido.md) <br>
+# Guia Rápido
+
+* https://cheatsheets.zip/postgres
+* https://cheatsheets.zip/redis
+* https://cheatsheets.zip/mongodb
+* https://cheatsheets.zip/neo4j
 ## [./javalin_mustache_exemplo](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./javalin_mustache_exemplo) <br>
 Exemplo Javalin 
 [teste](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./javalin_mustache_exemplo/teste) <br>
