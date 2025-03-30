@@ -2,7 +2,9 @@
 
 **Exemplos:**
 
+<!--
 *  https://github.com/IgorAvilaPereira/QuickStart_SpringJPAMustache
+-->
 
 * bom exemplo de api e uso de templates mustache - https://github.com/IgorAvilaPereira/minicurso-java-spring-solid
 
