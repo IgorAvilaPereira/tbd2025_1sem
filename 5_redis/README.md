@@ -1,6 +1,10 @@
 * Matéria Nova: REDIS
 * Divulgação TRABALHO 1 -> Data e Peso estão no SIGAA => assim fechamos 1 bim.
 
+Semana Quem vem:
+
+* Redis (aula 2) + Atendimento Trabalho
+
 Na volta (2 bim):
 
 * MongoDB
