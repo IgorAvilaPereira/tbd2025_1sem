@@ -276,11 +276,6 @@ Definir - Nova data atividade avaliada  1 -> dia 29/07 tudo: trabalho1 (jpa), tr
 [exemplo070425](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./6_springjpa_springredis/exemplo070425) <br>
 ## [./7_mongodb](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./7_mongodb) <br>
 [mongodb.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongodb.pdf) <br>
-
-
-## 11/11 - Mongodb
-
-
 https://cheatsheets.zip/mongodb
 
 ```sh
