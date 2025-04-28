@@ -1,8 +1,3 @@
-
-
-## 11/11 - Mongodb
-
-
 https://cheatsheets.zip/mongodb
 
 ```sh
