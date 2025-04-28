@@ -186,3 +186,6 @@ try {
 db.users.find({"nome": "igor"})
 db.users.find({nome:{$in:["igor", "erick"]}})
 ```
+
+
+
