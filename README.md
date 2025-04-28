@@ -463,7 +463,11 @@ try {
 -- find 
 db.users.find({"nome": "igor"})
 db.users.find({nome:{$in:["igor", "erick"]}})
-```## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
+```
+
+
+
+## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 # Guia Rápido
 
 * https://cheatsheets.zip/postgres
