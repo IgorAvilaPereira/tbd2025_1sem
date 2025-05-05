@@ -478,6 +478,7 @@ db.users.find({nome:{$in:["igor", "erick"]}})
 
 
 [mongobd](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongobd) <br>
+[mongodb_pojo](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongodb_pojo) <br>
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 # Guia Rápido
 
