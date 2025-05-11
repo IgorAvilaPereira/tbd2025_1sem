@@ -473,11 +473,18 @@ db.users.find({nome:{$in:["igor", "erick"]}})
 **aggregation**
 
 * https://www.mongodb.com/docs/manual/core/aggregation-pipeline/#std-label-aggregation-pipeline
+
 * https://www.mongodb.com/docs/manual/reference/operator/aggregation/group/#mongodb-pipeline-pipe.-group
 
 **Data Model Examples and Patterns**
 
 * https://www.mongodb.com/docs/manual/applications/data-models/
+
+**mongo compass:**
+
+* https://www.mongodb.com/docs/compass/current/install/
+
+
 
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 # Guia Rápido
