@@ -480,6 +480,7 @@ db.users.find({nome:{$in:["igor", "erick"]}})
 [mongobd](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongobd) <br>
 [mongodb_pojo](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongodb_pojo) <br>
 ## [./8_mongodb_aggregation](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./8_mongodb_aggregation) <br>
+[exemplos.json](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./8_mongodb_aggregation/exemplos.json) <br>
 [mongodb_aggregation.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./8_mongodb_aggregation/mongodb_aggregation.pdf) <br>
 **aggregation**
 
