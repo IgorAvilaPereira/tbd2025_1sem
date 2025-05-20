@@ -44,7 +44,7 @@ Desenvolvimento de Aplicação E-commerce. <!-- com JPA, PostgreSQL e Redis-->
 <!--![trabalho1](trabalho1.png)
 
 ## Valor: 5
--->
+
 
 
 ### Trabalho 3 - MONGODB
@@ -62,4 +62,4 @@ Dicas:
 
 https://stackoverflow.com/questions/29577713/string-field-value-length-in-mongodb
 
-**Valor: 3**
+**Valor: 3**-->
