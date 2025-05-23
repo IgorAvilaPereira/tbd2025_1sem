@@ -489,6 +489,8 @@ db.users.find({nome:{$in:["igor", "erick"]}})
 
 
 ## [./9_neo4j_aula1](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula1) <br>
+[neo4j_cypher.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/neo4j_cypher.pdf) <br>
+[neo4j.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/neo4j.pdf) <br>
 Neo4j (aula 1)
 
 <!--
