@@ -1,25 +1,15 @@
 # tbd2025_1sem <br>
-## [./1_introducao](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./1_introducao) <br>
-[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/*.*) <br>
-[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/aiai) <br>
 ## [./1_introducao_OneToMany](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./1_introducao_OneToMany) <br>
 [jpa.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao_OneToMany/jpa.pdf) <br>
 * [Video - @OneToOne](https://www.youtube.com/watch?v=IXhz1G6w75Q&list=PLvT8P1q6jMWfvCUWOAOJt_mJfsvrV2jp5&index=1&ab_channel=IgorAvilaPereira)
 
 [exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao_OneToMany/exemplo_jpa_javalin) <br>
-## [./2_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./2_aula) <br>
-[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_aula/*.*) <br>
-[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_aula/aiai) <br>
 ## [./2_OneToOne](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./2_OneToOne) <br>
 [jpa.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_OneToOne/jpa.pdf) <br>
 * +@OneToMany
 * @OneToOne
 * Herança
 [exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_OneToOne/exemplo_jpa_javalin) <br>
-## [./3_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./3_aula) <br>
-[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_aula/*.*) <br>
-[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_aula/aiai) <br>
-[projeto_pos_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_aula/projeto_pos_aula) <br>
 ## [./3_ManyToMany](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./3_ManyToMany) <br>
 @ManyToMany
 
