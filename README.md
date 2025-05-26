@@ -816,8 +816,6 @@ sudo docker exec -it cassandra cqlsh
 ## [./trabalhos](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./trabalhos) <br>
 ### 💼 **Trabalho 2: Sistema de Recomendação Social com Java, MongoDB e Neo4j**
 
----
-
 ### 🎯 **Objetivo do Projeto**
 
 Construir um sistema web baseado em **Java** que integra dois bancos de dados NoSQL complementares:
