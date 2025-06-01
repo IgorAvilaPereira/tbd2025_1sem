@@ -656,6 +656,8 @@ public class App {
 &nbsp;
 [scripts_cypher.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/scripts_cypher.txt) <br>
 [neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/neo4j2) <br>
+## [./9_neo4j_aula2](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula2) <br>
+&nbsp;
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 # Guia Rápido
 
