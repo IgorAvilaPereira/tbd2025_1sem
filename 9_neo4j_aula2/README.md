@@ -1,6 +1,6 @@
+<!--
 Neo4j (aula 2)
 
-<!--
 [Código](https://github.com/IgorAvilaPereira/tbd2024_2sem/blob/main/codigos/neo4jaula2.zip)
 
 * [Neo4j (Aula 3)](https://github.com/IgorAvilaPereira/tbd2024_2sem/raw/main/slides/neo4j_loadcsv.pdf)
