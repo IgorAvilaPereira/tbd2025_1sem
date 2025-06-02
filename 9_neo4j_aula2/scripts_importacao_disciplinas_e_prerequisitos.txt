@@ -25,3 +25,23 @@ MATCH (d2:Disciplina)
 MATCH(d1)-[:]->(d2)
 WHERE d1.sigla = "TBD" 
 return d1,d2;
+
+
+MATCH(p1:Perfil) where p1.nome = "Igor" 
+MATCH(p2:Perfil) 
+MATCH(p3:Perfil)
+MATCH (p1)-[s1:SEGUE]->(p2)-[s2:SEGUE]->(p3) where p3.nome <> "Igor" 
+MATCH (p3) WHERE NOT EXISTS ((p1)-[:SEGUE]->(p3))
+RETURN p3;
+
+MATCH (m:Movie)
+MATCH (p:Person)
+MATCH(p)-[:ACTED_IN]->(m)
+WHERE m.title = "The Matrix" 
+return m,p;
+
+MATCH (d1:Disciplina)
+MATCH (d2:Disciplina)
+MATCH(d1)-[:]->(d2)
+WHERE d1.sigla = "TBD" 
+return d1,d2;
