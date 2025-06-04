@@ -1,18 +1,18 @@
 # tbd2025_1sem <br>
-## [./1_introducao_OneToMany](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./1_introducao_OneToMany) <br>
-[jpa.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao_OneToMany/jpa.pdf) <br>
+## [./01_introducao_OneToMany](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./01_introducao_OneToMany) <br>
+[jpa.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./01_introducao_OneToMany/jpa.pdf) <br>
 * [Video - @OneToOne](https://www.youtube.com/watch?v=IXhz1G6w75Q&list=PLvT8P1q6jMWfvCUWOAOJt_mJfsvrV2jp5&index=1&ab_channel=IgorAvilaPereira)
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./1_introducao_OneToMany)
-[exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao_OneToMany/exemplo_jpa_javalin) <br>
-## [./2_OneToOne](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./2_OneToOne) <br>
-[jpa.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_OneToOne/jpa.pdf) <br>
+[exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./01_introducao_OneToMany/exemplo_jpa_javalin) <br>
+## [./02_OneToOne](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./02_OneToOne) <br>
+[jpa.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./02_OneToOne/jpa.pdf) <br>
 * +@OneToMany
 * @OneToOne
 * Herança
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./2_OneToOne)
-[exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_OneToOne/exemplo_jpa_javalin) <br>
-## [./3_ManyToMany](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./3_ManyToMany) <br>
+[exemplo_jpa_javalin](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./02_OneToOne/exemplo_jpa_javalin) <br>
+## [./03_ManyToMany](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./03_ManyToMany) <br>
 @ManyToMany
 
 **Alternativas Easy-Criteria:**
@@ -26,9 +26,9 @@
 <br>
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./3_ManyToMany)
-[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_ManyToMany/aiai) <br>
-[projeto_pos_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_ManyToMany/projeto_pos_aula) <br>
-## [./4_springjpa](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./4_springjpa) <br>
+[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./03_ManyToMany/aiai) <br>
+[projeto_pos_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./03_ManyToMany/projeto_pos_aula) <br>
+## [./04_springjpa](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./04_springjpa) <br>
 [Documentação](https://docs.spring.io/spring-data/jpa/reference/jpa.html)
 
 **Exemplos:**
@@ -40,8 +40,8 @@
 * bom exemplo de api com swagger - https://github.com/IgorAvilaPereira/SpringJPA_PostgreSQL
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./4_springjpa)
-## [./5_redis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./5_redis) <br>
-[introducao_nosql_redis.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/introducao_nosql_redis.pdf) <br>
+## [./05_redis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./05_redis) <br>
+[introducao_nosql_redis.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./05_redis/introducao_nosql_redis.pdf) <br>
 * Matéria Nova: REDIS
 * Divulgação TRABALHO 1 -> Data e Peso estão no SIGAA => assim fechamos 1 bim.
 
@@ -268,10 +268,10 @@ Definir - Nova data atividade avaliada  1 -> dia 29/07 tudo: trabalho1 (jpa), tr
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./5_redis)
-[redis.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/redis.md) <br>
-[exemplo_redis_jedis](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/exemplo_redis_jedis) <br>
-[minicurso-java-spring-solid-main](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/minicurso-java-spring-solid-main) <br>
-## [./6_springjpa_springredis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./6_springjpa_springredis) <br>
+[redis.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./05_redis/redis.md) <br>
+[exemplo_redis_jedis](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./05_redis/exemplo_redis_jedis) <br>
+[minicurso-java-spring-solid-main](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./05_redis/minicurso-java-spring-solid-main) <br>
+## [./06_springjpa_springredis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./06_springjpa_springredis) <br>
 
 * https://github.com/giuliana-bezerra/tutorial-springboot-cache
 
@@ -279,9 +279,9 @@ Definir - Nova data atividade avaliada  1 -> dia 29/07 tudo: trabalho1 (jpa), tr
 
 &nbsp;
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./6_springjpa_springredis)
-[exemplo070425](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./6_springjpa_springredis/exemplo070425) <br>
-## [./7_mongodb](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./7_mongodb) <br>
-[mongodb.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongodb.pdf) <br>
+[exemplo070425](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./06_springjpa_springredis/exemplo070425) <br>
+## [./07_mongodb](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./07_mongodb) <br>
+[mongodb.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./07_mongodb/mongodb.pdf) <br>
 https://cheatsheets.zip/mongodb
 
 ```sh
@@ -474,11 +474,11 @@ db.users.find({nome:{$in:["igor", "erick"]}})
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./7_mongodb)
-[mongobd](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongobd) <br>
-[mongodb_pojo](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongodb_pojo) <br>
-## [./8_mongodb_aggregation](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./8_mongodb_aggregation) <br>
-[exemplos.json](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./8_mongodb_aggregation/exemplos.json) <br>
-[mongodb_aggregation.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./8_mongodb_aggregation/mongodb_aggregation.pdf) <br>
+[mongobd](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./07_mongodb/mongobd) <br>
+[mongodb_pojo](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./07_mongodb/mongodb_pojo) <br>
+## [./08_mongodb_aggregation](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./08_mongodb_aggregation) <br>
+[exemplos.json](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./08_mongodb_aggregation/exemplos.json) <br>
+[mongodb_aggregation.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./08_mongodb_aggregation/mongodb_aggregation.pdf) <br>
 **aggregation**
 
 * https://www.mongodb.com/docs/manual/core/aggregation-pipeline/#std-label-aggregation-pipeline
@@ -496,9 +496,9 @@ db.users.find({nome:{$in:["igor", "erick"]}})
 
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./8_mongodb_aggregation)
-## [./9_neo4j_aula1](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula1) <br>
-[neo4j_cypher.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/neo4j_cypher.pdf) <br>
-[neo4j.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/neo4j.pdf) <br>
+## [./09_neo4j_aula1](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./09_neo4j_aula1) <br>
+[neo4j_cypher.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula1/neo4j_cypher.pdf) <br>
+[neo4j.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula1/neo4j.pdf) <br>
 Neo4j (aula 1)
 
 <!--
@@ -663,16 +663,16 @@ public class App {
 
 &nbsp;
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula1)
-[scripts_cypher.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/scripts_cypher.txt) <br>
-[neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/neo4j2) <br>
-## [./9_neo4j_aula2](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula2) <br>
-[amizades.csv](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/amizades.csv) <br>
-[disciplinas.csv](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/disciplinas.csv) <br>
-[neo4j_cypher.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/neo4j_cypher.pdf) <br>
-[neo4j_loadcsv.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/neo4j_loadcsv.pdf) <br>
-[neo4j.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/neo4j.pdf) <br>
-[perfis.csv](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/perfis.csv) <br>
-[prerequisitos.csv](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/prerequisitos.csv) <br>
+[scripts_cypher.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula1/scripts_cypher.txt) <br>
+[neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula1/neo4j2) <br>
+## [./09_neo4j_aula2](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./09_neo4j_aula2) <br>
+[amizades.csv](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/amizades.csv) <br>
+[disciplinas.csv](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/disciplinas.csv) <br>
+[neo4j_cypher.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/neo4j_cypher.pdf) <br>
+[neo4j_loadcsv.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/neo4j_loadcsv.pdf) <br>
+[neo4j.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/neo4j.pdf) <br>
+[perfis.csv](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/perfis.csv) <br>
+[prerequisitos.csv](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/prerequisitos.csv) <br>
 <!--
 Neo4j (aula 2)
 
@@ -714,9 +714,9 @@ Neo4j (aula 2)
 -->
 
 &nbsp;[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula2)
-[scripts_importacao_amigos_e_amizades.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/scripts_importacao_amigos_e_amizades.txt) <br>
-[scripts_importacao_disciplinas_e_prerequisitos.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/scripts_importacao_disciplinas_e_prerequisitos.txt) <br>
-[neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/neo4j2) <br>
+[scripts_importacao_amigos_e_amizades.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/scripts_importacao_amigos_e_amizades.txt) <br>
+[scripts_importacao_disciplinas_e_prerequisitos.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/scripts_importacao_disciplinas_e_prerequisitos.txt) <br>
+[neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/neo4j2) <br>
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 # Guia Rápido
 
