@@ -26,7 +26,6 @@ O sistema deverá:
 | Neo4j               | Armazenamento de relações e análise de grafos |
 | Spring Data MongoDB | Integração com MongoDB                        |
 | Neo4j Java Driver   | Integração com o banco de grafos Neo4j        |
-| Docker Compose      | Subir ambiente completo localmente            |
 | Swagger/OpenAPI     | Documentação e teste das APIs                 |
 
 ---
