@@ -38,4 +38,4 @@ Neo4j (aula 2)
   * obs: usando o MERGE
 -->
 
-&nbsp;[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula2)
+&nbsp;[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./09_neo4j_aula2)
