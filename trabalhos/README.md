@@ -204,3 +204,4 @@ Dicas:
 https://stackoverflow.com/questions/29577713/string-field-value-length-in-mongodb
 
 **Valor: 3**-->
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./trabalhos)

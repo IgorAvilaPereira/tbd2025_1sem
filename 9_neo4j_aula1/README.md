@@ -161,3 +161,4 @@ public class App {
 * https://youtube.com/playlist?list=PLdvBzqdsNjSePpPN_9ro4TBAFr3xRGyuA&si=Jne-M3GEQUE3pIUW
 
 &nbsp;
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula1)

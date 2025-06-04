@@ -146,3 +146,4 @@ sudo docker exec -it cassandra cqlsh
 sudo docker start cassandra
 sudo docker exec -it cassandra cqlsh
 ```
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./setup)
