@@ -717,6 +717,9 @@ Neo4j (aula 2)
 [scripts_importacao_amigos_e_amizades.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/scripts_importacao_amigos_e_amizades.txt) <br>
 [scripts_importacao_disciplinas_e_prerequisitos.txt](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/scripts_importacao_disciplinas_e_prerequisitos.txt) <br>
 [neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/neo4j2) <br>
+## [./10_cassandra](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./10_cassandra) <br>
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/10_cassandra)
+&nbsp;
 ## [./6_springjpa_springredis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./6_springjpa_springredis) <br>
 [*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./6_springjpa_springredis/*.*) <br>
 [exemplo070425](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./6_springjpa_springredis/exemplo070425) <br>
