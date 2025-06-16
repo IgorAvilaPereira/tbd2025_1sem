@@ -719,6 +719,10 @@ Neo4j (aula 2)
 [neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/neo4j2) <br>
 ## [./10_cassandra](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./10_cassandra) <br>
 [cassandra.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./10_cassandra/cassandra.pdf) <br>
+
+**Propor novo cronograma**
+
+
 ```bash
 -- 1ª vez
 sudo docker pull cassandra
