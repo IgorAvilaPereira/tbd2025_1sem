@@ -6,7 +6,7 @@
 
 * 30/06 - Atendimento TRABALHO 2 ou APRESENTAÇÕES (DELIVERY)
 
-* 07/07 - Atendimento TRABALHO 2 ou APRESENTAÇÕES
+* 07/07 - Atendimento TRABALHO 2 ou APRESENTAÇÕES (DELIVERY)
 
 * 14/07 - GORDURA
 
