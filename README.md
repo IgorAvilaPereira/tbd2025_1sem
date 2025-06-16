@@ -719,6 +719,7 @@ Neo4j (aula 2)
 [neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./09_neo4j_aula2/neo4j2) <br>
 ## [./10_cassandra](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./10_cassandra) <br>
 [cassandra.pdf](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./10_cassandra/cassandra.pdf) <br>
+[novo_cronograma.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./10_cassandra/novo_cronograma.md) <br>
 
 **Propor novo cronograma**
 
@@ -758,6 +759,33 @@ sudo docker exec -it cassandra cqlsh
 
 &nbsp;
 [imagens](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./10_cassandra/imagens) <br>
+## [./1_introducao](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./1_introducao) <br>
+[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/*.*) <br>
+[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/aiai) <br>
+## [./2_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./2_aula) <br>
+[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_aula/*.*) <br>
+[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./2_aula/aiai) <br>
+## [./3_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./3_aula) <br>
+[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_aula/*.*) <br>
+[aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_aula/aiai) <br>
+[projeto_pos_aula](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./3_aula/projeto_pos_aula) <br>
+## [./5_redis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./5_redis) <br>
+[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/*.*) <br>
+[exemplo_redis_jedis](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/exemplo_redis_jedis) <br>
+[minicurso-java-spring-solid-main](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./5_redis/minicurso-java-spring-solid-main) <br>
+## [./6_springjpa_springredis](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./6_springjpa_springredis) <br>
+[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./6_springjpa_springredis/*.*) <br>
+[exemplo070425](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./6_springjpa_springredis/exemplo070425) <br>
+## [./7_mongodb](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./7_mongodb) <br>
+[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/*.*) <br>
+[mongobd](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongobd) <br>
+[mongodb_pojo](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./7_mongodb/mongodb_pojo) <br>
+## [./9_neo4j_aula1](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula1) <br>
+[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/*.*) <br>
+[neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula1/neo4j2) <br>
+## [./9_neo4j_aula2](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./9_neo4j_aula2) <br>
+[*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/*.*) <br>
+[neo4j2](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./9_neo4j_aula2/neo4j2) <br>
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 # Guia Rápido
 
