@@ -764,7 +764,6 @@ sudo docker exec -it cassandra cqlsh
 [cassandra_com_java.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/cassandra_com_java.md) <br>
 [cassandra.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/cassandra.md) <br>
 [gabarito_mini_projeto_sistema_de_mensagens.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/gabarito_mini_projeto_sistema_de_mensagens.md) <br>
-[mapper_api.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/mapper_api.md) <br>
 [mini_projeto_sistema_de_mensagens.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/mini_projeto_sistema_de_mensagens.md) <br>
 
 * Maryene 100% mas ainda não testei com afinco!
@@ -775,6 +774,7 @@ sudo docker exec -it cassandra cqlsh
 
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/11_cassandra)
 &nbsp;
+[demo](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/demo) <br>
 ## [./1_introducao](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./1_introducao) <br>
 [*.*](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/*.*) <br>
 [aiai](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./1_introducao/aiai) <br>
