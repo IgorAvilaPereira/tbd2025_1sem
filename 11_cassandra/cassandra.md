@@ -116,8 +116,7 @@ DELETE FROM produtos WHERE id = 1234;
 
 ---
 
-Perfeito! Vamos seguir um passo a passo para você começar **na prática** com o Apache Cassandra.
-
+## Como começar?
 ---
 
 ## 🛠️ Etapa 1: Instalando o Cassandra (via Docker — mais fácil e rápido)
