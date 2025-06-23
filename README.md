@@ -761,8 +761,10 @@ sudo docker exec -it cassandra cqlsh
 [demo](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./10_cassandra/demo) <br>
 [imagens](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./10_cassandra/imagens) <br>
 ## [./11_cassandra](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./11_cassandra) <br>
+[cassandra_com_java.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/cassandra_com_java.md) <br>
 [cassandra.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/cassandra.md) <br>
 [gabarito_mini_projeto_sistema_de_mensagens.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/gabarito_mini_projeto_sistema_de_mensagens.md) <br>
+[mapper_api.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/mapper_api.md) <br>
 [mini_projeto_sistema_de_mensagens.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/mini_projeto_sistema_de_mensagens.md) <br>
 
 [Código - Exemplo](https://github.com/IgorAvilaPereira/crud-java-cassandra)
