@@ -199,6 +199,3 @@ public class Main {
 * Facilita testes
 
 ---
-
-Se quiser, posso te mandar esse projeto como um `.zip`, ou te mostrar como fazer isso com **Spring Boot** + Mapper API. Deseja continuar com isso?
-
