@@ -1,6 +1,6 @@
 ### Novo/Atual Cronograma
 
-* 16/06 - CASSANDRA - AULA 1 (HOJE)
+* 16/06 - CASSANDRA - AULA 1
 
 * 23/06 - CASSANDRA - AULA 2 
 
