@@ -1,7 +1,7 @@
 
-* Maryene 100% mas ainda não testei com afinco!
+* Maryene trabalhão 100%
 
-* Can +ou-
+* Can trabalhão 100%
 
 [Código - Exemplo](https://github.com/IgorAvilaPereira/crud-java-cassandra)
 
