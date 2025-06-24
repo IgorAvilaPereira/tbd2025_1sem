@@ -12,4 +12,4 @@
 
 * 21/07 - EXAME
 
-obs: apresentação modo DELIVERY é apresentar pessoalmente e presencialmente ao professor (somente ao professor)
+obs: apresentação modo DELIVERY é apresentar presencialmente ao professor
