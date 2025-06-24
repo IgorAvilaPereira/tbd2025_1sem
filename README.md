@@ -766,9 +766,9 @@ sudo docker exec -it cassandra cqlsh
 [gabarito_mini_projeto_sistema_de_mensagens.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/gabarito_mini_projeto_sistema_de_mensagens.md) <br>
 [mini_projeto_sistema_de_mensagens.md](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/mini_projeto_sistema_de_mensagens.md) <br>
 
-* Maryene 100% mas ainda não testei com afinco!
+* Maryene trabalhão 100%
 
-* Can +ou-
+* Can trabalhão 100%
 
 [Código - Exemplo](https://github.com/IgorAvilaPereira/crud-java-cassandra)
 
