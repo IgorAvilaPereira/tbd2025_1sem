@@ -775,6 +775,9 @@ sudo docker exec -it cassandra cqlsh
 [Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/11_cassandra)
 &nbsp;
 [demo](https://github.com/IgorAvilaPereira/tbd2025_1sem/blob/main/./11_cassandra/demo) <br>
+## [./12_atendimento_trabalho2](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./12_atendimento_trabalho2) <br>
+[Baixar todo o material da aula](https://download-directory.github.io/?url=http://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/12_atendimento_trabalho2)
+&nbsp;
 ## [./guia_rapido](https://github.com/IgorAvilaPereira/tbd2025_1sem/tree/main/./guia_rapido) <br>
 # Guia Rápido
 
